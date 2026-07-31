@@ -4,7 +4,8 @@ check1: 15
 check2: 2
 check3: 3
 fix: fine
-'null': pipeline1
+"null": pipeline1
+check4: 4
 version: 2.0
 s1: test-value
 sv1: service-value
