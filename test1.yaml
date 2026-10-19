@@ -8,7 +8,7 @@ checking: only
 checking1: only
 checking2: only2
 checking3: only
-testing1: ok
+testing1: nok
 checking4: only
 checking5: only
 checking6: only
