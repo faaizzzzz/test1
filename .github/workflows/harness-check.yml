@@ -1,0 +1,7 @@
+name: harness_check
+on: pull_request
+jobs:
+  harness_check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 20
