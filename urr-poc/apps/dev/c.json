@@ -1,3 +1,6 @@
 {
-  "replicas": 1
+  "image": {
+    "tag": "v3"
+  },
+  "replicas": 2
 }
