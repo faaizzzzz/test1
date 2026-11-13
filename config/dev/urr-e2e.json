@@ -1,0 +1,8 @@
+{
+  "app": {
+    "image": {
+      "tag": "v4"
+    }
+  },
+  "replicas": 2
+}
